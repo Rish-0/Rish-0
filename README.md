@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rish-0
-- 👀 I’m interested in UPES..
+- 👾 Hi, I’m @Rish-0
+- 👀 I’m interested in DAA
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
