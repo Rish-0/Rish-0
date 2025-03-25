@@ -1,6 +1,6 @@
 - 👾 Hi, I’m @Rish-0
-- 👀 I’m interested in DAA
-- 🌱 I’m currently learning AI/ML
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
